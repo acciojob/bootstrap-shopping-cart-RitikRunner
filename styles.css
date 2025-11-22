@@ -1,7 +1,28 @@
 /*  your css code here. If applicable */
+body{
+background-color: gray;
+	
+}
+
+
+
 .title{
 display:inline;
 justify-content:center;	
-align-items:center	
+align-items:center		
+}
+.phone{
+height: 100px;
+width: 100px;	
 	
 }
+
+
+
+
+
+
+
+
+
+
